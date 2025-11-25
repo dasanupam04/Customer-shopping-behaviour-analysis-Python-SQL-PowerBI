@@ -25,6 +25,7 @@ The goal of this project is to:
 This project demonstrates clean data preparation, in-depth EDA, feature engineering, SQL integration, visualization, and insights.
 
 
+
 📂 Dataset Description
 
 The dataset contains customer-level transaction records, including:
