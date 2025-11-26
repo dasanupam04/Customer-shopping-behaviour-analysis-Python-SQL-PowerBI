@@ -1,9 +1,9 @@
 🛍️ Customer Shopping Behavior Analysis
 
 A Data Science Project Using Python, SQL, EDA, and Feature Engineering
-.
-.
-.
+
+
+
 
 📌 Project Overview
 
@@ -24,9 +24,9 @@ The goal of this project is to:
     6. Prepare the dataset for machine learning modeling
     
 This project demonstrates clean data preparation, in-depth EDA, feature engineering, SQL integration, visualization, and insights.
-.
-.
-.
+
+
+
 
 📂 Dataset Description
 
