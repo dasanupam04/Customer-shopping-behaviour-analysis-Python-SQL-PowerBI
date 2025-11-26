@@ -49,6 +49,7 @@ This dataset allows both behavioral analysis and predictive modeling.
 🧹 Data Preparation & Cleaning
 
 All inconsistencies in the dataset were cleaned, missing values handled, and columns standardized.
+
 ✔ Missing Value Treatment
 
 Review ratings with missing values were filled using category-wise median values, ensuring no distortion in product-specific trends.
