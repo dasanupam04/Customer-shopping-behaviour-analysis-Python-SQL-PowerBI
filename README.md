@@ -52,16 +52,16 @@ All inconsistencies in the dataset were cleaned, missing values handled, and col
 
 ✔ Missing Value Treatment
 
-Review ratings with missing values were filled using category-wise median values, ensuring no distortion in product-specific trends.
+1. Review ratings with missing values were filled using category-wise median values, ensuring no distortion in product-specific trends.
 
 ✔ Column Standardization
 
-All column names were converted to clean, consistent, snake_case format.
+1. All column names were converted to clean, consistent, snake_case format.
 
-Redundant or duplicate fields were removed after validation.
+2. Redundant or duplicate fields were removed after validation.
 
 ✔ Outlier Checks
 
-Purchase amounts and review scores were examined for extreme values.
+1. Purchase amounts and review scores were examined for extreme values.
 
-Irregularities caused by data entry issues were handled appropriately.
+2. Irregularities caused by data entry issues were handled appropriately.
