@@ -41,3 +41,9 @@ The dataset contains customer-level transaction records, including:
     5. Season & Preferred Channel: Helps in understanding timing and platform preferences
 
 This dataset allows both behavioral analysis and predictive modeling.
+
+
+
+🧹 Data Preparation & Cleaning
+
+All inconsistencies in the dataset were cleaned, missing values handled, and columns standardized.
