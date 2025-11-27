@@ -65,3 +65,11 @@ All inconsistencies in the dataset were cleaned, missing values handled, and col
 1. Purchase amounts and review scores were examined for extreme values.
 
 2. Irregularities caused by data entry issues were handled appropriately.
+
+
+
+🛠️ Feature Engineering
+
+
+To expand the analytical value of the dataset, new features were created.
+
