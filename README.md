@@ -77,19 +77,19 @@ To expand the analytical value of the dataset, new features were created.
 ✔ Age Grouping
 
 
-Customers were segmented into four groups:
-Young Adult, Adult, Middle-aged, Senior — enabling demographic-based trend analysis.
+    Customers were segmented into four groups:
+    Young Adult, Adult, Middle-aged, Senior — enabling demographic-based trend analysis.
 
 ✔ Purchase Frequency (in Days)
 
 
-Purchase frequency text such as “Weekly”, “Monthly”, “Quarterly”, etc., was converted into numerical day counts. This allows frequency-based comparisons and modeling.
+    Purchase frequency text such as “Weekly”, “Monthly”, “Quarterly”, etc., was converted into numerical day counts. This allows frequency-based comparisons and modeling.
 
 
 ✔ Redundant Feature Elimination
 
 
-Two columns — "discount applied" and "promo code used" — were found to contain identical values. The duplicate column was removed to avoid confusion and multicollinearity
+    Two columns — "discount applied" and "promo code used" — were found to contain identical values. The duplicate column was removed to avoid confusion and multicollinearity
 
 
 
